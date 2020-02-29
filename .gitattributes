@@ -1,2 +1,4 @@
 *.bas encoding=cp932
 *.BAS encoding=cp932
+*.bas diff=cp932
+*.BAS diff=cp932
