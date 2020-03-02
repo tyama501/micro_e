@@ -1,4 +1,6 @@
 *.bas encoding=cp932
 *.BAS encoding=cp932
+ME_SPEC.TXT encoding=cp932
 *.bas diff=cp932
 *.BAS diff=cp932
+ME_SPEC.TXT diff=cp932
